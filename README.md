@@ -21,7 +21,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/foodcourtapp.git
+git clone https://github.com/Vishnu-62/foodcourtapp.git
 cd foodcourtapp
 Install dependencies:
 
